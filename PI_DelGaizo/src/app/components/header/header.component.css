@@ -1,0 +1,16 @@
+div{
+    background: #3B4346 url(../../../assets/Fondo1.jpg);
+}
+
+app-social{
+    float:right;
+    margin-top:25px;
+}
+
+img{
+    width:100vh;
+}
+
+app-banner{
+    width: 100%;
+}

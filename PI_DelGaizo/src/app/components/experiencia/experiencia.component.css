@@ -1,0 +1,13 @@
+.row{
+    padding:15px;
+    color: antiquewhite;
+}
+.row h1{
+    text-shadow: 2px -2px 1px rgb(0 0 0 / 75%);
+}
+div{
+    background: #353D40 url(../../../assets/Fondo3.jpg);
+}
+h2,h3{
+    display: inline;
+}

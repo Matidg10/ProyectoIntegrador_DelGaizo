@@ -1,0 +1,14 @@
+.row{
+    background: #3B4346 url(../../../assets/Fondo1.jpg);
+    padding: 10px;
+    border-top: solid 5px #000000;
+}
+
+footer{
+    color: #fefefe;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}

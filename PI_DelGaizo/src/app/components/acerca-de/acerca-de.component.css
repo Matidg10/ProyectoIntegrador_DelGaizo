@@ -1,0 +1,52 @@
+.row{
+    
+    color:rgb(202, 199, 199);
+}
+
+div{
+    background: #3B4346 url(../../../assets/Fondo1.jpg);  
+    border-bottom: solid 1px #030303;
+}
+
+#info{
+    text-align: center;
+}
+
+#nombre{
+    font-weight: bold;
+    margin-top: 10%;
+}
+
+#acercademi h1{
+    margin-top: 2%;
+    text-shadow: 2px -2px 1px rgb(0 0 0 / 75%);
+}
+
+#acerdademi{
+    text-align: justify;
+}
+
+@media (min-width:576px){
+    #fotoperfil{
+        position: absolute;
+        width: 16%;
+        border-radius: 100%;
+        box-shadow: 1px 1px 1px white;
+        left: 2%;
+        top: 350px;
+    }
+}
+
+@media (max-width:575px){
+    #fotoperfil{
+        position: absolute;
+        width: 25%;
+        border-radius: 100%;
+        box-shadow: 1px 1px 1px white;
+        left: 38%;
+        top: 300px;
+    }
+    #nombre{
+        margin-top: 30%;
+    }
+}

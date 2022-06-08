@@ -1,0 +1,10 @@
+
+.row{
+    background: #f7f7f7 url(../../../assets/Fondo2.png);
+    padding:0.5em;
+    border-top: solid 2px #000000;
+}
+
+.row h1{
+    margin-left: 5%;
+}
